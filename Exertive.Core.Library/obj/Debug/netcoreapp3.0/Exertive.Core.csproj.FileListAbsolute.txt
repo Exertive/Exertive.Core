@@ -1,0 +1,9 @@
+C:\Files\Business\Studio\Exertive\Exertive.Core\Exertive.Core\bin\Debug\netcoreapp3.0\Exertive.Core.deps.json
+C:\Files\Business\Studio\Exertive\Exertive.Core\Exertive.Core\bin\Debug\netcoreapp3.0\Exertive.Core.dll
+C:\Files\Business\Studio\Exertive\Exertive.Core\Exertive.Core\bin\Debug\netcoreapp3.0\Exertive.Core.pdb
+C:\Files\Business\Studio\Exertive\Exertive.Core\Exertive.Core\obj\Debug\netcoreapp3.0\Exertive.Core.AssemblyInfoInputs.cache
+C:\Files\Business\Studio\Exertive\Exertive.Core\Exertive.Core\obj\Debug\netcoreapp3.0\Exertive.Core.AssemblyInfo.cs
+C:\Files\Business\Studio\Exertive\Exertive.Core\Exertive.Core\obj\Debug\netcoreapp3.0\Exertive.Core.dll
+C:\Files\Business\Studio\Exertive\Exertive.Core\Exertive.Core\obj\Debug\netcoreapp3.0\Exertive.Core.pdb
+C:\Files\Business\Studio\Exertive\Exertive.Core\Exertive.Core\obj\Debug\netcoreapp3.0\Exertive.Core.csprojAssemblyReference.cache
+C:\Files\Business\Studio\Exertive\Exertive.Core\Exertive.Core\obj\Debug\netcoreapp3.0\Exertive.Core.csproj.CoreCompileInputs.cache

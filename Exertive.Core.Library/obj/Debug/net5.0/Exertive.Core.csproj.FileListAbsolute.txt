@@ -1,0 +1,12 @@
+C:\Files\Business\Studio\Exertive\Exertive.Identity\Exertive.Identity.Server\Exertive.Core\Exertive.Core\bin\Debug\net5.0\Exertive.Core.deps.json
+C:\Files\Business\Studio\Exertive\Exertive.Identity\Exertive.Identity.Server\Exertive.Core\Exertive.Core\bin\Debug\net5.0\Exertive.Core.dll
+C:\Files\Business\Studio\Exertive\Exertive.Identity\Exertive.Identity.Server\Exertive.Core\Exertive.Core\bin\Debug\net5.0\Exertive.Core.pdb
+C:\Files\Business\Studio\Exertive\Exertive.Identity\Exertive.Identity.Server\Exertive.Core\Exertive.Core\obj\Debug\net5.0\Exertive.Core.csproj.AssemblyReference.cache
+C:\Files\Business\Studio\Exertive\Exertive.Identity\Exertive.Identity.Server\Exertive.Core\Exertive.Core\obj\Debug\net5.0\Exertive.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\Business\Studio\Exertive\Exertive.Identity\Exertive.Identity.Server\Exertive.Core\Exertive.Core\obj\Debug\net5.0\Exertive.Core.AssemblyInfoInputs.cache
+C:\Files\Business\Studio\Exertive\Exertive.Identity\Exertive.Identity.Server\Exertive.Core\Exertive.Core\obj\Debug\net5.0\Exertive.Core.AssemblyInfo.cs
+C:\Files\Business\Studio\Exertive\Exertive.Identity\Exertive.Identity.Server\Exertive.Core\Exertive.Core\obj\Debug\net5.0\Exertive.Core.csproj.CoreCompileInputs.cache
+C:\Files\Business\Studio\Exertive\Exertive.Identity\Exertive.Identity.Server\Exertive.Core\Exertive.Core\obj\Debug\net5.0\Exertive.Core.dll
+C:\Files\Business\Studio\Exertive\Exertive.Identity\Exertive.Identity.Server\Exertive.Core\Exertive.Core\obj\Debug\net5.0\refint\Exertive.Core.dll
+C:\Files\Business\Studio\Exertive\Exertive.Identity\Exertive.Identity.Server\Exertive.Core\Exertive.Core\obj\Debug\net5.0\Exertive.Core.pdb
+C:\Files\Business\Studio\Exertive\Exertive.Identity\Exertive.Identity.Server\Exertive.Core\Exertive.Core\obj\Debug\net5.0\ref\Exertive.Core.dll
